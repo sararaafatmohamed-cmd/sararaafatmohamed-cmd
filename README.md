@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sara Raafat 👋
 
-<!--
-**sararaafatmohamed-cmd/sararaafatmohamed-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Business Information Systems Student** | 📊 **Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+I'm a Business Information Systems student passionate about technology, data, and building practical projects. I enjoy exploring different areas of technology while currently focusing more on **Data Analysis, Power BI, and SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+* 📊 **Data Analysis:** Excel, Power BI, Power Query
+* 🗄️ **Database & Analysis:** SQL
+* 💻 **Programming:** C++, C#
+* 🌐 **Web Development:** HTML, CSS, JavaScript
+
+### 📌 Currently Focusing On
+
+* 📊 Power BI & Data Visualization
+* 🗄️ SQL & Data Analysis
+* 🧹 Data Cleaning & Transformation
+* 🚀 Building practical and real-world projects
+* 📚 Continuously improving my technical skills
+
+### 🚀 Projects
+
+I'm building projects across different areas, including:
+
+* 📊 **Data Analysis & Business Intelligence**
+* 🗄️ **SQL & Database Projects**
+* 📈 **Excel & Power BI Dashboards**
+* 🌐 **Web Development**
+* 💻 **C++ & C# Projects**
+
+### 🎯 Career Goal
+
+To grow as a **Data Analyst** and use data to uncover insights, solve problems, and support better decision-making.
+
+### 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sarah-raafat-639a88259)
+* 🌐 [Portfolio](https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/)
+
+---
+
+⭐ Thanks for visiting my profile!
