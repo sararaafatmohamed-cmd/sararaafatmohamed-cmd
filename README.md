@@ -23,7 +23,6 @@ Currently focusing on **SQL, Power BI, Excel, and Power Query** while building p
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
@@ -50,14 +49,6 @@ Currently focusing on **SQL, Power BI, Excel, and Power Query** while building p
 
 * [**SQL Training – IT Gate**](https://github.com/sararaafatmohamed-cmd/SQL-Training-IT-Gate) — SQL Server & Database Projects
 * [**Electronics Shop Database**](https://github.com/sararaafatmohamed-cmd/SQL-Training-IT-Gate/blob/main/Electronics-Shop-Database/ShopDB.sql) — SQL Server
-
----
-
-### 📊 GitHub Stats
-
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sararaafatmohamed-cmd\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sararaafatmohamed-cmd\&layout=compact\&hide_border=true)
 
 ---
 
