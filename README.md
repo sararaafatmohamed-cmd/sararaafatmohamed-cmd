@@ -44,7 +44,7 @@ Currently focusing on **SQL, Power BI, Excel, and Power Query** while building p
 * [**Superstore 2019**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Superstore-2019) — Excel, Power Query & Power Pivot
 * [**Pizza Sales Analysis**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Pizza-Sales-SQL-PowerBI) — SQL & Power BI
 * [**Books Sales & Ratings**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Books-Sales-PowerBI) — Power BI
-* [**Car Sales**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Power-BI-Power-Query/Power-BI-Power-Query/T2_S2_Car_Sales.pbix) — Power BI & Power Query
+* [**Car Sales**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/blob/main/Power-BI-Power-Query/Power-BI-Power-Query/T2_S2_Car_Sales.pbix) — Power BI & Power Query
 
 #### 🗄️ SQL & Database Projects
 
@@ -55,10 +55,9 @@ Currently focusing on **SQL, Power BI, Excel, and Power Query** while building p
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sararaafatmohamed-cmd&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaafatmohamed-cmd&layout=compact&hide_border=true" height="170"/>
-</p>
+![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sararaafatmohamed-cmd\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sararaafatmohamed-cmd\&layout=compact\&hide_border=true)
 
 ---
 
@@ -70,17 +69,9 @@ To grow as a **Data Analyst**, strengthen my analytical and technical skills, an
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sarah-raafat-639a88259">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6B4636?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/sararaafatmohamed-cmd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarah-raafat-639a88259)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6B4636?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sararaafatmohamed-cmd)
 
 ---
 
