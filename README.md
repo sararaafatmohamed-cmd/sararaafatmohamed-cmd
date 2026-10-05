@@ -1,10 +1,10 @@
-# Hi, I'm Sara Raafat 👋
+# 👋 Hi, I'm Sara Raafat
 
-🎓 **Business Information Systems Student** | 📊 **Aspiring Data Analyst**
+### 🎓 Business Information Systems Student | 📊 Aspiring Data Analyst
 
-I'm a BIS student passionate about **Data Analysis and Business Intelligence**. I enjoy working with data, building interactive dashboards, and turning raw data into meaningful insights that support better decisions.
+I'm passionate about **Data Analysis and Business Intelligence**, with a focus on turning raw data into clear visualizations, meaningful insights, and data-driven stories.
 
-Currently focusing on **SQL, Power BI, DAX, Power Query, and data visualization** while building practical data analysis projects.
+Currently developing my skills in **SQL, Power BI, DAX, Power Query, and Data Visualization** through practical projects and continuous learning.
 
 ---
 
@@ -12,19 +12,23 @@ Currently focusing on **SQL, Power BI, DAX, Power Query, and data visualization*
 
 ### 📊 Data Analysis & Business Intelligence
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=MicrosoftSQLServer\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=PowerBI\&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-742774?style=for-the-badge\&logo=powerbi\&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge\&logo=microsoft\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-1F6FEB?style=for-the-badge&logo=PowerBI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-1F6FEB?style=for-the-badge&logo=PowerBI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-1F6FEB?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-1F6FEB?style=for-the-badge&logo=MicrosoftExcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Pivot-1F6FEB?style=for-the-badge&logo=Microsoft&logoColor=white"/>
+</p>
 
 ### 💻 Programming & Web Development
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-1F6FEB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-1F6FEB?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-1F6FEB?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1F6FEB?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
@@ -33,40 +37,17 @@ Currently focusing on **SQL, Power BI, DAX, Power Query, and data visualization*
 * 📊 Power BI & Data Visualization
 * 🗄️ SQL & Data Analysis
 * 🧹 Data Cleaning & Transformation
-* 📐 Data Modeling & DAX
+* 📐 DAX & Data Modeling
 * 📈 Interactive Dashboard Development
 * 💡 Business Insights & Data Storytelling
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Data Analysis & Business Intelligence
-
-* 📚 [**Goodreads Books Analysis**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Goodreads-Books-Analysis) — Power BI, Power Query & DAX
-* 🍕 [**Pizza Sales Analysis**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Pizza-Sales-SQL-PowerBI) — SQL Server, Power BI & DAX
-* 🏥 [**Healthcare Analytics**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Healthcare-Analytics-PowerBI) — Power BI, Power Query & DAX
-* 👥 [**HR Analytics**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/HR-Analytics-PowerBI) — Power BI & Power Query
-* 🛒 [**Superstore 2019**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Superstore-2019) — Excel, Power Query & Power Pivot
-* 🚕 [**Uber Analytics**](https://github.com/sararaafatmohamed-cmd/DEPI-Data-Analysis-Projects/tree/main/Uber-Analytics-PowerBI) — Power BI, Power Query & DAX
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sararaafatmohamed-cmd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaafatmohamed-cmd&layout=compact&hide_border=true" height="180"/>
-</p>
-
-### 🔝 Top Contributed Repository
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sararaafatmohamed-cmd&limit=5&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sararaafatmohamed-cmd&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sararaafatmohamed-cmd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=57606A&bg_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sararaafatmohamed-cmd&layout=compact&hide_border=true&title_color=1F6FEB&text_color=57606A&bg_color=ffffff" height="180"/>
 </p>
 
 ---
@@ -77,12 +58,22 @@ To grow as a **Data Analyst**, continuously strengthen my analytical and technic
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarah-raafat-639a88259)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6B4636?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sararaafatmohamed-cmd)
+<p>
+  <a href="https://www.linkedin.com/in/sarah-raafat-639a88259">
+    <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sararaafatmohamed-cmd">
+    <img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
