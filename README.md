@@ -7,9 +7,6 @@ I enjoy working with data, building interactive dashboards, and turning raw data
 
 Currently focusing on **SQL, Power BI, DAX, Power Query, and Data Visualization** while building practical projects and continuously developing my analytical skills.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sararaafatmohamed-cmd&label=Profile%20Views&color=6B4636&style=for-the-badge" alt="Profile Views" />
-</p>
 ---
 
 ## 🛠️ Skills & Technologies
@@ -54,6 +51,9 @@ Currently focusing on **SQL, Power BI, DAX, Power Query, and Data Visualization*
   <img src="https://streak-stats.demolab.com/?user=sararaafatmohamed-cmd&hide_border=true&theme=transparent" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sararaafatmohamed-cmd&label=Profile%20Views&color=6B4636&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 ## 🚀 What I'm Building
